@@ -1,0 +1,6 @@
+D:\Homework\lesson_4_stack\stack_homework\Stack_Homework\Stack_Homework\bin\Debug\Stack_Homework.exe.config
+D:\Homework\lesson_4_stack\stack_homework\Stack_Homework\Stack_Homework\obj\Debug\Stack_Homework.csprojResolveAssemblyReference.cache
+D:\Homework\lesson_4_stack\stack_homework\Stack_Homework\Stack_Homework\bin\Debug\Stack_Homework.exe
+D:\Homework\lesson_4_stack\stack_homework\Stack_Homework\Stack_Homework\bin\Debug\Stack_Homework.pdb
+D:\Homework\lesson_4_stack\stack_homework\Stack_Homework\Stack_Homework\obj\Debug\Stack_Homework.exe
+D:\Homework\lesson_4_stack\stack_homework\Stack_Homework\Stack_Homework\obj\Debug\Stack_Homework.pdb
